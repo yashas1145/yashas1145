@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=Manikanta05" /><br>
 <!--
 **yashas1145/yashas1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +19,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashas1145)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-![Visitor Count](https://profile-counter.glitch.me/{yashas1145}/count.svg)
