@@ -3,7 +3,6 @@
 #### I'm Yashas
 
 #### A python and web developer, with keen interest in ML stuff.
-
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=yashas1145" /><br>
 <!--
