@@ -2,15 +2,15 @@
 
 #### I'm Yashas
 
-#### A python developer and web developer, with keen interest in ML stuff.
-I have hands on experience in programming with Python, Oracle SQL, Oracle PL/SQL and Java.
+#### A fullstack developer, with keen interest in back-end development and optimization.
+I have hands on experience in programming with Java, Python, Go, Oracle SQL and Oracle PL/SQL.
 <br><br>
 <!--
 **yashas1145/yashas1145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ... Go
 🌱 I’m currently learning ... Oracle PL/SQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
