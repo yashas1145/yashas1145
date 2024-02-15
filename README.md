@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#### I'm Yashas
+### Hi there, I'm Yashas 👋
 
 #### A fullstack developer, with keen interest in back-end development and optimization.
 I have hands on experience in programming with Java, Python, Go, Oracle SQL and Oracle PL/SQL.
